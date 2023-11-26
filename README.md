@@ -14,7 +14,6 @@ On each day, there will be a cahllenge and each participant is expected to solve
 **Day 8:** Calculate the factorial of a number.\
 **Day 9:** Implement a simple calculator.\
 **Day 10:** Check if a string is a palindrome.
-**Days 11**-20: Data Structures\
 **Day 11:** Implement a stack.\
 **Day 12:** Implement a queue.\
 **Day 13:** Find the intersection of two lists.\
@@ -25,7 +24,6 @@ On each day, there will be a cahllenge and each participant is expected to solve
 **Day 18:** Rotate an array.\
 **Day 19:** Implement a hash table.\
 **Day 20:** Merge two sorted lists.\
-**Day 21**-30: Algorithms\
 **Day 21:** Implement binary search.\
 **Day 22:** Implement bubble sort.\
 **Day 23:** Implement selection sort.\
@@ -37,7 +35,6 @@ graph (Dijkstra's algorithm).\
 **Day 28:** Implement breadth-first search.\
 **Day 29:** Implement depth-first search.\
 **Day 30:** Implement the Fibonacci sequence.\
-**Day 31**-40: Intermediate Topics\
 **Day 31:** Handle exceptions in Python.\
 **Day 32:** Read and write to a file.\
 **Day 33:** Use regular expressions to validate an email.\
@@ -48,9 +45,8 @@ graph (Dijkstra's algorithm).\
 **Day 38:** Use a third-party API (e.g., OpenWeatherMap).\
 **Day 39:** Create a basic GUI application (e.g., with Tkinter).\
 **Day 40:** Explore virtual environments and package management.\
-**Day 41**-50: Advanced Topics\
-**Day 41:** Introduction to \object-oriented programming (OOP).\
-**Day 42:** Create a class and objects in Python.\
+**Day 41:** Introduction to object-oriented programming (OOP).\
+**Day 42:** Create a person class with name and age objects in Python.\
 **Day 43:** Inheritance and polymorphism.\
 **Day 44:** Exception handling in OOP.\
 **Day 45:** Decorators and closures.\
