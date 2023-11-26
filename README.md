@@ -1,7 +1,8 @@
 # 100_days_of_code
 
 ## This repo is created for a 100 days of programming challenge
-On each day, there will be a cahllenge and each participant is expected to solve the problem on a diffrent branch they created  fafter clonning this repo
+
+On each day, there will be a cahllenge and each participant is expected to solve the problem on a diffrent branch they created fafter clonning this repo
 
 **Day 1:** Print "Hello, World!" to the console.\
 **Day 2:** Accept user input and display it.\
@@ -31,7 +32,7 @@ On each day, there will be a cahllenge and each participant is expected to solve
 **Day 24:** Implement insertion sort.\
 **Day 25:** Implement merge sort.\
 **Day 26:** Implement quicksort.\
-**Day 27:** Find the shortest path in a 
+**Day 27:** Find the shortest path in a
 graph (Dijkstra's algorithm).\
 **Day 28:** Implement breadth-first search.\
 **Day 29:** Implement depth-first search.\
@@ -57,4 +58,4 @@ graph (Dijkstra's algorithm).\
 **Day 47:** Multithreading in Python.\
 **Day 48:** Multiprocessing in Python.\
 **Day 49:** Asynchronous programming with async/await.\
-**Day 50:** Unit testing in Python.\
+**Day 50:** Unit testing in Python.
