@@ -12,5 +12,6 @@ def get_number_type(number):
                 return False
         except Exception as e:
             return e
+        
 if __name__ == "__main__":
     main()
