@@ -10,3 +10,5 @@ if operator == '*':
     print(first_number * second_number)
 if operator == '/':
     print(first_number / second_number)
+else:
+    print("Invalid operator")
