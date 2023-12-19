@@ -30,8 +30,7 @@ On each day, there will be a cahllenge and each participant is expected to solve
 **Day 24:** Implement insertion sort.\
 **Day 25:** Implement merge sort.\
 **Day 26:** Implement quicksort.\
-**Day 27:** Find the shortest path in a
-graph (Dijkstra's algorithm).\
+**Day 27:** Find the shortest path in a graph (Dijkstra's algorithm).\
 **Day 28:** Implement breadth-first search.\
 **Day 29:** Implement depth-first search.\
 **Day 30:** Implement the Fibonacci sequence.\
